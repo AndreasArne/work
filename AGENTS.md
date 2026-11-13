@@ -1,8 +1,10 @@
 # Courses Home
 
 My home for work as a university teacher at BTH/dbwebb. Run the agent from here.
-Shared skills and docs live in this repo. The course repos below stay where they
-are; this file only points at them. Use the terms from each repo's own docs.
+Shared skills and docs live in this repo (git@github.com:AndreasArne/work.git,
+cloned to ~/work). The course repos below are cloned inside ~/work but are
+gitignored, so they are not part of this repo; this file only points at them.
+Use the terms from each repo's own docs.
 
 Working style: see `docs/working-style/`. Skills of my own go in `skills/`.
 
