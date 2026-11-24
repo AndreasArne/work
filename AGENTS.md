@@ -17,6 +17,11 @@ DevOps course (DV1673), mine:
 - microblog-stud (student repo for test run-throughs, private): ~/work/devops/microblog-stud. Clone from git@github.com:AndreasArne/microblog-stud.git if missing.
 - redovisnings-sida (reference solution and grading scripts, private): ~/work/devops/redovisnings-sida. Clone from git@github.com:AndreasArne/redovisnings-sida.git if missing.
 
+Python course (DV1670, course occasion code B6RTU), being rewritten for HT27 with oral examination. Current syllabus: https://bth.azure-api.net/lindplan/courseplanbycode?code=B6RTU&semester=20272&lang=sv (the API takes occasion codes, not course codes).
+- python (folder for all Python course work): ~/work/python. The repos below are cloned inside it and gitignored.
+- ht27 (the new course: draft syllabus, weekly plans, research summaries, collected syllabuses from other universities): ~/work/python/ht27. Clone from git@github.com:bth-python/ht27.git if missing. The bth-python org uses SAML SSO; the SSH key must be authorized for it.
+- bth-python.github.io (course website): ~/work/python/bth-python.github.io. Clone from git@github.com:bth-python/bth-python.github.io.git if missing.
+
 MVC course, Mikael Roos's course that I help with:
 - mvc (umbrella repo, submodules of the repos below): ~/work/mvc. Clone from git@github.com:AndreasArne/mvc-teacher.git if missing, then `git submodule update --init`. Read its CLAUDE.md first. Make no changes in the submodules; open an issue or PR instead.
 - teacher (course repo: student skeleton, reference solution, planning, slides): ~/work/mvc/teacher. Clone from git@github.com:bth-mvc/teacher.git if missing. Read its CLAUDE.md first.
